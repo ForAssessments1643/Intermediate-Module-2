@@ -1,0 +1,57 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+  button {
+    background-color: rgb(17, 223, 209);
+    border-radius: 6px;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-transform: uppercase;
+    width: 200px;
+    cursor: pointer;
+  }
+
+
+  #WinnerCategory {
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 50px auto;  
+    font-size:40px;
+  }
+
+  .wrap-title , .wrap-footer{
+    text-align: center;
+  }
+  #dummyText{
+    padding: 50px;
+  }
+  #btnCreateFile{
+    padding: 10px 20px;
+    font-size: 15px;
+    background: rgb(17, 223, 209);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  #downloadFile{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 15px;
+    background: rgb(17, 223, 209);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  #inputfile{
+    padding: 10px 20px;
+    font-size: 15px;
+    background: rgb(17, 223, 209);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
